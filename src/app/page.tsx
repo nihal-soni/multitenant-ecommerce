@@ -2,8 +2,8 @@
 
 export default function Home() {
   return (
-   <>
-    Hello there
-   </>
+    <div>
+      Multitenant app
+    </div>
   );
 }
